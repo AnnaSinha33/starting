@@ -1,0 +1,134 @@
+body {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+header h1 {
+    margin-left: 70px;
+}
+
+h2 {
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight:500;
+}
+
+.container {
+    border: solid gray 3px;
+    padding: 10px;
+    margin: 10px 70px;
+}
+
+.blue {
+    display: inline-block;
+    color: white;
+    background-color: #2d5dcc;
+    line-height: 2.7;
+    text-align: center;
+    width: 32%;
+    min-height: 100px;
+    margin: 20px auto;
+}
+
+.pink {
+    display: inline-block;
+    background-color: #d957d9;
+    line-height: 2.7;
+    text-align: center;
+    width: 32%;
+    min-height: 100px;
+    margin: 20px auto;
+}
+
+.mint {
+    display: inline-block;
+    background-color: #4fe0b0;
+    line-height: 2.7;
+    text-align: center;
+    width: 32%;
+    min-height: 100px;
+    margin: 20px auto;
+}
+
+.beige {
+    display: inline-block;
+    background-color: #efd9ca;
+    line-height: 2.7;
+    text-align: center;
+    width: 32%;
+    min-height: 100px;
+    margin: 20px auto;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+}
+.font-label-1 {
+    font-family: "Source Code Pro";
+    font-weight:500;
+    text-decoration: underline;
+}
+
+.font-label-2 {
+    font-family: "Nunito Sans";
+    font-weight:500;
+    text-decoration: underline;
+}
+
+.font-label-3 {
+    font-family: "Poppins";
+    font-weight:500;
+    text-decoration: underline;
+}
+
+.regular-code {
+    font-family: "Source Code Pro";
+    font-weight:300;
+    font-style: normal;
+}
+
+.bold-code {
+    font-family: "Source Code Pro";
+    font-weight:700;
+    font-style: bold;
+}
+.italic-code {
+    font-family: "Source Code Pro";
+    font-weight:300;
+    font-style: italic;
+}
+
+.regular-nunito {
+    font-family: "Nunito Sans";
+    font-weight:200;
+    font-style: normal;
+}
+
+.bold-nunito {
+    font-family: "Nunito Sans";
+    font-weight:700;
+    font-style: bold;
+}
+.italic-nunito {
+    font-family: "Nunito Sans";
+    font-weight:500;
+    font-style: italic;
+}
+
+.regular-poppins {
+    font-family: "Poppins";
+    font-weight:500;
+    font-style: normal;
+}
+
+.bold-poppins {
+    font-family: "Poppins";
+    font-weight:700;
+    font-style: bold;
+}
+
+.italic-poppins {
+    font-family: "Poppins";
+    font-weight:300;
+    font-style: italic;
+}
